@@ -1,0 +1,10 @@
+name = "gatekeeper"
+type = "webpack"
+
+account_id = "8aad3ec1b9b535c4b6231204523fd150"
+workers_dev = true
+compatibility_date = "2021-10-14"
+
+[env.production]
+zone_id = "8d84f99d27b79f699ecdf2d5b6ceb83d"
+route = "2power10.link/*"
